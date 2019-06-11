@@ -7,6 +7,8 @@ import sk.hudak.obs.observers.YourObserver;
 
 public class MainExample {
 
+    // https://www.concretepage.com/java/example-observer-observable-java
+
     public static void main(String[] args) {
 
         // vytvorim si instanciu ktora drzi info
